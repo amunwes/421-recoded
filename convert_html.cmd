@@ -1,0 +1,1 @@
+jupyter nbconvert --to HTML --no-input HW3.ipynb
